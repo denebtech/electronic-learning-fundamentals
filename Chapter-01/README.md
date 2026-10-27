@@ -29,3 +29,19 @@ Electricity can be represented using the water pressure and pipe diameter analog
 - Using a larger diameter pipe (lower resistance) allows more water (electrons) to flow through the pipe for a given amount of pressure (voltage).
 
 ![Resistance](images/resistance.png)
+
+## Source of electricity
+
+- **Batteries.** They use an electrochemical reaction to produce a positive voltage at one terminal and a negative voltage at the other.
+
+- **Electrical outlets.** Electricity is generated at a power plant, such as a dam (hydroelectric energy) or a nuclear power plant.
+
+### Types of current
+
+- **Direct current (DC).** Electrons move in only one direction, from the negative terminal through the wires to the positive terminal.
+
+- **Alternating current (AC).** The electron flow changes direction 120 times per second, completing a full cycle 60 times per second.
+
+<p align="center">
+  <img src="images/dc_ac.png" alt="Direct current vs Alternating current" />
+</p>
